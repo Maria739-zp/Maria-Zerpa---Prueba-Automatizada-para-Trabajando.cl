@@ -3,7 +3,6 @@ Este proyecto comprende la creación del flujo de inicio de sesión de un usuari
 
 Luego avanzamos a la creación del flujo de búsqueda avanzada aplicando los filtros necesarios. 
 
-El objetivo es probar los componentes críticos de inicio de sesión, búsqueda de empleo y aplicación de filtros avanzados. 
 
 # Herramientas y tecnologías
 
@@ -17,7 +16,7 @@ Framework de Comportamiento (BDD): Cucumber
 
 Gestor de Dependencias y Construcción: Maven
 
-Gestión de pruebas: Excel
+Gestión de pruebas: 
 
 Gestion de defectos: Github issues
 
@@ -29,8 +28,5 @@ Entorno: Windows 11
 
 Plan de pruebas: estrategia, alcance de las pruebas y criterios de aceptación
 
-Casos de prueba: documentación de  escenarios de pruebas positivos y negativos 
+Casos de prueba: documentación de  escenarios de pruebas positivos
 
-Evidencias: Capturas de pantalla de las pruebas ejecutadas
-
-Reporte de bugs:  documentación de los errores encontrados 
