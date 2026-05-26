@@ -16,7 +16,7 @@ Framework de Comportamiento (BDD): Cucumber
 
 Gestor de Dependencias y Construcción: Maven
 
-Gestión de pruebas: 
+Gestión de pruebas: Excel
 
 Gestion de defectos: Github issues
 
