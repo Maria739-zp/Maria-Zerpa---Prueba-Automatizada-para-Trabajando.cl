@@ -1,8 +1,13 @@
 # Maria-Zerpa---Prueba-Automatizada-para-Trabajando.cl
 Este proyecto comprende la creación del flujo de inicio de sesión de un usuario registrado, así también el flujo de búsqueda básica de un puesto de trabajo para Trabajando.cl
 
-Luego avanzamos a la creación del flujo de búsqueda avanzada aplicando los filtros necesarios. 
+Luego continuamos con la creación del flujo de búsqueda avanzada aplicando los filtros necesarios. 
 
+#Objetivos del proyecto
+
+* Validar el flujo de inicio de sesión de un usuario registrado.
+* Automatizar el flujo de búsqueda básica de ofertas laborales.
+* Validar la funcionalidad de búsqueda avanzada, aplicando filtros complejos como cargo, ubicación, carrera trabajando con elementos dinámicos de la interfaz como listas desplegables superpuestas y checkboxes.
 
 # Herramientas y tecnologías
 
@@ -29,4 +34,5 @@ Entorno: Windows 11
 Plan de pruebas: estrategia, alcance de las pruebas y criterios de aceptación
 
 Casos de prueba: documentación de  escenarios de pruebas positivos
+
 
