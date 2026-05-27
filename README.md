@@ -3,7 +3,7 @@ Este proyecto comprende la creación del flujo de inicio de sesión de un usuari
 
 Luego continuamos con la creación del flujo de búsqueda avanzada aplicando los filtros necesarios. 
 
-#Objetivos del proyecto
+# Objetivos del proyecto
 
 * Validar el flujo de inicio de sesión de un usuario registrado.
 * Automatizar el flujo de búsqueda básica de ofertas laborales.
